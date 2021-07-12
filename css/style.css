@@ -70,12 +70,20 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 .gallery-item .gallery-icon { margin-right: 10px; }
 i{ margin-right: 5px; }
 a{ text-decoration: none; }
-p{ margin-bottom: 20px; }
+p{ margin-bottom: 0px; }
 ul, ol{ margin-bottom: 20px; margin-left: 30px; }
 body { line-height: 1.7; font-family: Arial, Helvetica, sans-serif; overflow-y: scroll;
 	-webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5, h6 { line-height: 1.3; margin-bottom: 18px; font-weight: 400; }	
 
+
+@media (max-width: 600px)
+{
+.img_100 {
+width: 60%;
+  height: auto;
+	}
+}
 /*----------------------------------------------------------------------*/
 /*---------------             THEME STYLE             ------------------*/
 /*----------------------------------------------------------------------*/
@@ -1170,7 +1178,7 @@ body.single .gdlr-blog-full{ border-bottom: 0px; }
 .gdlr-session-item .gdlr-session-item-head-info { display: inline-block; padding: 18px 25px 16px; line-height: 1.3; min-width: 12%; 
 	border-right-width: 1px; border-right-style: solid; }
 .gdlr-session-item .gdlr-session-head-day { font-size: 18px; text-transform: uppercase; font-weight: bold; margin-bottom: 5px; }	
-.gdlr-session-item .gdlr-session-info{ padding-right: 20px; font-size: 24px; text-transform: uppercase; }
+.gdlr-session-item .gdlr-session-info{ padding-right: 20px; font-size: 24px; }
 .gdlr-session-item .gdlr-session-info .session-info{ margin-bottom: 15px; }
 .gdlr-session-item .gdlr-session-info .session-info i{ font-size: 17px; margin-right: 15px; display: inline-block; width: 18px; }
 .gdlr-session-item .gdlr-session-info .session-info.session-document{ font-weight: bold; }
