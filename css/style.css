@@ -435,7 +435,7 @@ input[type="submit"], input[type="button"]{ -webkit-appearance: none; }
 .gdlr-box-with-icon-item.type-circle .box-with-circle-icon{ padding: 5px; display: inline-block; 
 	position: absolute; -moz-border-radius: 30px; -webkit-border-radius: 200px; border-radius: 200px; }
 .gdlr-box-with-icon-item.type-circle .box-with-circle-icon > i{ font-size: 22px; margin-left: 6px; margin-top: 8px;  }	
-.gdlr-box-with-icon-item.type-circle.pos-top{ padding-top: 50px;}
+.gdlr-box-with-icon-item.type-circle.pos-top{ padding-top: 50px; padding-bottom: 60px;}
 .gdlr-box-with-icon-item.type-circle.pos-top .box-with-circle-icon{ top: -30px; left: 50%; margin-left: -30px; }
 .gdlr-box-with-icon-item.type-circle.pos-left{ margin-left: 40px; padding-left: 50px; }
 .gdlr-box-with-icon-item.type-circle.pos-left .box-with-circle-icon{ left: -30px; top: 50%; margin-top: -30px; }
