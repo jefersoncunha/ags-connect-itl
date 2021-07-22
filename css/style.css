@@ -224,7 +224,7 @@ img.gdlr-full-boxed-background{ min-height: 100%; min-width: 1024px;
 .gdlr-navigation-wrapper{ margin: 0px 15px; float: right; padding-right: 65px; }
 .gdlr-navigation-wrapper .gdlr-navigation-container{ position: relative; line-height: 0; }
 .gdlr-navigation-wrapper .gdlr-main-menu > li{ padding: 0px 17px; }
-.gdlr-navigation-wrapper .gdlr-main-menu > li > a{ font-size: 11px; text-transform: uppercase;
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a{ font-size: 13px; text-transform: uppercase;
 	padding: 0px 0px 38px 0px; margin: 0px; font-weight: 800; letter-spacing: 2px; }
 .gdlr-navigation-wrapper .gdlr-main-menu > li:first-child > a{ padding-left: 0px; }
 .gdlr-navigation-wrapper .gdlr-main-menu > li > a.sf-with-ul{ padding-right: 0px; }
@@ -262,8 +262,6 @@ img.gdlr-full-boxed-background{ min-height: 100%; min-width: 1024px;
 .gdlr-sidebar .gdlr-widget-title{ display: inline-block; padding-right: 4px; }
 .widget.gdlr-widget { margin-bottom: 50px; }
 
-/*--- stunning-text ---*/	
-.31{ position: relative; }
 
 .gdlr-stunning-text-item.type-center{ text-align:center;  margin-bottom: 35px; }
 .gdlr-stunning-text-item.type-center .stunning-text-title{ font-size: 33px; font-weight: bold; margin-bottom: 25px; }
@@ -435,7 +433,7 @@ input[type="submit"], input[type="button"]{ -webkit-appearance: none; }
 .gdlr-box-with-icon-item.type-circle .box-with-circle-icon{ padding: 5px; display: inline-block; 
 	position: absolute; -moz-border-radius: 30px; -webkit-border-radius: 200px; border-radius: 200px; }
 .gdlr-box-with-icon-item.type-circle .box-with-circle-icon > i{ font-size: 22px; margin-left: 6px; margin-top: 8px;  }	
-.gdlr-box-with-icon-item.type-circle.pos-top{ padding-top: 50px; padding-bottom: 30px;}
+.gdlr-box-with-icon-item.type-circle.pos-top{ padding-top: 50px; padding-bottom: 25px;}
 .gdlr-box-with-icon-item.type-circle.pos-top .box-with-circle-icon{ top: -30px; left: 50%; margin-left: -30px; }
 .gdlr-box-with-icon-item.type-circle.pos-left{ margin-left: 40px; padding-left: 50px; }
 .gdlr-box-with-icon-item.type-circle.pos-left .box-with-circle-icon{ left: -30px; top: 50%; margin-top: -30px; }
